@@ -121,3 +121,87 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+## Utilizei o ChatGPT para retorno da atividade proposta.
+
+# Plano de Treino e Cardápio Personalizado
+
+## Biotipo: Endomorfo
+- Corpo com tendência a acumular gordura e maior dificuldade em perder peso.
+
+## Dias de Treino: 3 dias (Treino ABC)
+- A: Peito, Ombros e Tríceps
+- B: Pernas e Abdômen
+- C: Costas e Bíceps
+
+## Tipos de Treino:
+- Funcional
+- Maquinário
+- Peso Livre
+- Cardio
+- HIIT
+
+---
+
+## Treino ABC
+
+### Dia 1: Peito, Ombros e Tríceps (A)
+- **Supino Reto (Peso Livre)**: 4x12
+- **Desenvolvimento com Halteres (Maquinário/Peso Livre)**: 3x12
+- **Elevação Lateral (Funcional/Peso Livre)**: 3x15
+- **Tríceps Testa (Peso Livre)**: 3x12
+- **Flexões (Funcional)**: 3x15
+- **Cardio (HIIT - corrida ou bicicleta)**: 20 min
+
+### Dia 2: Pernas e Abdômen (B)
+- **Agachamento Livre (Peso Livre)**: 4x12
+- **Leg Press (Maquinário)**: 3x12
+- **Cadeira Extensora (Maquinário)**: 3x12
+- **Cadeira Flexora (Maquinário)**: 3x12
+- **Elevação de Panturrilha (Peso Livre)**: 3x20
+- **Prancha Abdominal (Funcional)**: 3x30 seg
+- **Cardio (HIIT)**: 20 min
+
+### Dia 3: Costas e Bíceps (C)
+- **Remada Curvada (Peso Livre)**: 4x12
+- **Puxada Frontal (Maquinário)**: 3x12
+- **Remada Baixa (Maquinário)**: 3x12
+- **Rosca Direta com Halteres (Peso Livre)**: 3x12
+- **Rosca Martelo (Peso Livre)**: 3x12
+- **Cardio (HIIT)**: 20 min
+
+---
+
+## Cardápio (1500 calorias)
+
+### Café da Manhã:
+- 1 banana
+- 1 scoop de whey protein
+- 1 xícara de café sem açúcar
+
+### Lanche da Manhã:
+- 1 maçã
+- 1 xícara de café sem açúcar
+
+### Almoço:
+- 150g de frango grelhado ou ovo cozido
+- 100g de arroz integral
+- 100g de feijão
+- Salada verde (alface, tomate, pepino)
+- Legumes cozidos (brócolis, cenoura)
+
+### Lanche da Tarde:
+- 1 pera
+- 1 scoop de whey protein
+
+### Jantar:
+- 150g de frango grelhado ou ovo
+- 100g de arroz integral
+- 100g de feijão
+- Salada verde
+- Legumes cozidos
+
+### Ceia:
+- 1 iogurte natural
+- 1 colher de sopa de aveia
+
